@@ -10,9 +10,4 @@ final class NotificationMessages
 
     public const DELETE_TASK_MESSAGE_EMAIL_SUBJECT = 'Actualización sobre la lista compartida: %s';
     public const DELETE_TASK_MESSAGE_EMAIL_BODY = 'Se ha eliminado la lista compartida: %s.';
-
-    /*public const SUBJECT_KEY     = 'subject';
-    public const HTML_KEY        = 'html';
-    public const FROM_VALUE      = 'Billing <billing@stocklog.xyz>';
-    public const SUBJECT_VALUE   = 'Billing reminder for period %s';*/
 }
